@@ -35,15 +35,13 @@
 
 ## 💾 My Projects
 
-<div>
-  <div align="left">
+<div align="left">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-  <div align="right">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="right">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 </div>
 
 
