@@ -41,5 +41,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark" alt="financial_calculator"></a>
   </p>
 
+  <a href="https://github.com/shead0shead?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
 
 ---
