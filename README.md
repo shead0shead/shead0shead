@@ -36,7 +36,7 @@
 ## 💾 My Projects
 
 <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark" alt="financial_calculator"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark&border_color=808080" alt="financial_calculator"></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark" alt="financial_calculator"></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark" alt="financial_calculator"></a>
   </p>
