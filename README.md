@@ -6,14 +6,14 @@
   
 </div>
 
-<div align="center">
+<p align="center">
   <a href="https://t.me/shead0shead" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="" targer="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/eg.konovalov%40mail.ru-darkgreen?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail Badge"/>
   </a>
-</div>
+</p>
 
 ---
 
