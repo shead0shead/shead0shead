@@ -26,6 +26,11 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 </div>
 
 
+## 🧑🏻‍💻 Code
+
+Already nothing...
+
+
 ## 🧑‍🤝‍🧑 Socials
 
 - ✉️ eg.konovalov@mail.ru
