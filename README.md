@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://github.com/shead0shead/shead0shead/blob/edit/header.png?raw=true" alt="header">
-</div>
+![Hi, I'm Egor Konovalov, begginer backend developer](./header.png)
 
-Hi there! I'm Egor: A Begginer Backend Developer. This is my profile page to share my personal works and projects.
+Hi there! I'm Egor: A Begginer 17 years old student and Backend Developer. This is my profile page to share my personal works and projects.
 
 <p align="center">
   <a href="https://t.me/shead0shead" target="_blank">
