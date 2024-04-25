@@ -16,7 +16,7 @@ I would like to create something that will please me and other people, as well a
 I want to work in a team of professionals who are really passionate about their business.
 <br/>
 
-## 🧑🏻‍💻 Stack
+<h2>🧑🏻‍💻 Stack</h2>
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" title="CSHARP" alt="CHARP" width="40" height="40"/>
