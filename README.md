@@ -12,7 +12,7 @@ Hi there! I'm Egor: A Begginer Backend Developer. This is my profile page to sha
 
 ---
 
-## 📖 About me 
+<h2>📖 About me<h2>
 
 - 🎈 I am 17 years old and I live in Volgograd.
 - 👨🏻‍🎓 I started learning programming in 2023.
