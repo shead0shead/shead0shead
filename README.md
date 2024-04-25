@@ -5,7 +5,7 @@ Hi there! I'm Egor: A 17 years old student and Begginer Backend Developer. This 
 
 ## 📖 About me
 
-<img alt="Its me" width="256" height="256"  align="left" src="aboutme.png"/>
+<a style="display:flex;"><img alt="Its me" width="256" height="256"  align="left" src="aboutme.png"/></a>
 
 - 🎈 I am 17 years old and I live in Volgograd.
 - 👨🏻‍🎓 I started learning programming in 2023.
