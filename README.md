@@ -14,8 +14,7 @@ I started learning programming in 2023. The first language I started learning wa
 I would like to create something that will please me and other people, as well as benefit them.
 
 I want to work in a team of professionals who are really passionate about their business.
-
-
+<br/>
 
 ## 🧑🏻‍💻 Stack
 
