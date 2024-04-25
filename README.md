@@ -15,8 +15,7 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 <br/>
 
-
-![My stack](./stack.png)
+## 🧑🏻‍💻 Stack
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" title="CSHARP" alt="CHARP" width="40" height="40"/>
