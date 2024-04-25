@@ -2,6 +2,8 @@
   <img src="https://github.com/shead0shead/shead0shead/blob/edit/header.png?raw=true" alt="header">
 </div>
 
+Hi there! I'm Egor: A Begginer Backend Developer. This is my profile page to share my personal works and projects.
+
 <p align="center">
   <a href="https://t.me/shead0shead" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
