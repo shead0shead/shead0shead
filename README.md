@@ -25,5 +25,5 @@ Lately, I've been trying to keep an eye on my github and make it look nice to ot
 
 ## 🧑‍🤝‍🧑 Socials
 
-- ✉️ Mail: eg.konovalov@mail.ru
+- ✉️ eg.konovalov@mail.ru
 - ✈️ [Telegram](https://t.me/shead0shead)
