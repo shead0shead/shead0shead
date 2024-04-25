@@ -16,6 +16,7 @@ I would like to create something that will please me and other people, as well a
 I want to work in a team of professionals who are really passionate about their business.
 
 
+
 ## 🧑🏻‍💻 Stack
 
 <div>
