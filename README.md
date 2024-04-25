@@ -10,6 +10,9 @@ Hi there! I'm Egor: A 17 years old student and Begginer Backend Developer. This 
 I am a 17-year-old student and a begginer backend developer living in the Russian city of Volgograd. I started learning programming in 2023. The first language I started learning was C#.
 
 I would like to create something that will please me and other people, as well as benefit them. I want to work in a team of professionals who are really passionate about their business.
+
+Lately, I've been trying to keep an eye on my github and make it look nice to other people's eyes.
+
 <br/>
 
 <h2>🧑🏻‍💻 Stack</h2>
