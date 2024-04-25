@@ -11,7 +11,7 @@ I am a 17-year-old student and a begginer backend developer living in the Russia
 
 I would like to create something that will please me and other people, as well as benefit them. I want to work in a team of professionals who are really passionate about their business.
 
-I've been actively learning Java lately and trying to keep an eye on my github and make it attract other people's attention.
+Lately, I've been actively studying Java and trying to keep an eye on my github so that it doesn't break the eyes of other people.
 
 <br/>
 
