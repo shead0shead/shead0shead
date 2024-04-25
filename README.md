@@ -28,4 +28,4 @@ Hi there! I'm Egor: A 17 years old student and Begginer Backend Developer. This 
 ## 🧑‍🤝‍🧑 Socials
 
 - ✉️ Mail: eg.konovalov@mail.ru
-- ✈️ ![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)
+- ✈️ [Telegram](https://t.me/shead0shead)
