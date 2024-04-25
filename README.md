@@ -17,7 +17,6 @@ I want to work in a team of professionals who are really passionate about their 
 
 <br/>
 
-
 ## 🧑🏻‍💻 Stack
 
 <div>
