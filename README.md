@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://github.com/shead0shead/shead0shead/blob/edit/Files/Hello5.gif?raw=true" alt="Hello" width="332" height="232">
+  <img src="https://github.com/shead0shead/shead0shead/blob/edit/Files/Panel1.png?raw=true" alt="HiPanel" width="1708" height="420">
   <h1>I'm Egor Konovalov</h1>
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Open-sans&weight=500&size=24&pause=5000&color=808080&center=true&random=false&width=540&lines=and+I'm+begginer+backend+developer)](https://git.io/typing-svg)
