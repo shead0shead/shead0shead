@@ -28,6 +28,8 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 ## 🧑🏻‍💻 Code
 
+<a style="display:flex;"><img alt="About me" width="256" height="437"  align="left" src="code_short.png"/></a>
+
 Already nothing...
 
 
