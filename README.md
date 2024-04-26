@@ -47,7 +47,7 @@ Already nothing...
 
 ## 🧑🏻‍💻 Stack
 
-<a style="display:flex;"><img alt="My stack" width="256" height="72"  align="right" src="stack_thin.png"/></a>
+<a style="display:flex;"><img alt="My stack" width="256" height="72"  align="left" src="stack_thin.png"/></a>
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" title="C++" alt="CPLUSPLUS" width="40" height="40"/>
