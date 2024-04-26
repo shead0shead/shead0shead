@@ -28,7 +28,12 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 Nothing right now...
 
+<a align="left">
 - 📖 [GitBook Test](https://github.com/shead0shead) 
+</a>
+<a align="center">
+- 📖 [GitBook Test](https://github.com/shead0shead) 
+</a>
 
 <br/>
 <br/>
