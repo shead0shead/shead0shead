@@ -28,6 +28,24 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 Already nothing...
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## 🧑🏻‍💻 Stack
 
