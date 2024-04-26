@@ -5,7 +5,7 @@ Hi there! I'm Egor: A 17 years old student and Begginer Backend Developer. This 
 
 ##
 
-<a style="display:flex;"><img alt="About me" width="256" height="512"  align="left" src="aboutme2.png"/></a>
+<a style="display:flex;"><img alt="About me" width="256" height="437"  align="left" src="aboutme3.png"/></a>
 
 ↙️ This is my work, but I backend developer.
 
