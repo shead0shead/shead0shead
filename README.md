@@ -15,6 +15,7 @@ I would like to create something that will please me and other people, as well a
 
 Lately, I've been actively studying Java and trying to keep an eye on my github so that it doesn't break the eyes of other people.
 
+<br/>
 
 ## 🧑🏻‍💻 Stack
 
