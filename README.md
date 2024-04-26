@@ -5,7 +5,7 @@ Hi there! I'm Egor: A 17 years old student and Begginer Backend Developer. This 
 
 ## 📖 About me
 
-<a style="display:flex;"><img alt="Its me" width="256" height="256"  align="left" src="aboutme.png"/></a>
+<a style="display:flex;"><img alt="About me" width="256" height="512"  align="left" src="aboutme2.png"/></a>
 
 ↙️ This is me.
 
