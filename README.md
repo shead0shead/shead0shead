@@ -24,7 +24,7 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 ##
 
-<a style="display:flex;"><img alt="About me" width="256" height="437"  align="right" src="code_short.png"/></a>
+<a style="display:flex;"><img alt="Code" width="256" height="437"  align="right" src="code_short.png"/></a>
 
 Already nothing...
 
@@ -46,6 +46,8 @@ Already nothing...
 <br/>
 
 ## 🧑🏻‍💻 Stack
+
+<a style="display:flex;"><img alt="My stack" width="256" height="72"  align="right" src="stack_thin.png"/></a>
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" title="C++" alt="CPLUSPLUS" width="40" height="40"/>
