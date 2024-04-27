@@ -5,7 +5,7 @@ Hi there! I'm Egor: A 17 years old student and Begginer Backend Developer. This 
 
 ##
 
-<a style="display:flex;"><img alt="About me" width="256" height="437" align="left" src="assets/aboutme/short_reverse.png"/></a>
+<p style="display:flex;"><img alt="About me" width="256" height="437" align="left" src="assets/aboutme/short_reverse.png"/></p>
 
 ↙️ This is my work, but I backend developer.
 
@@ -24,7 +24,7 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 ##
 
-<a style="display:flex;"><img alt="Code" width="256" height="437" align="right" src="assets/code/short.png"/></a>
+<p style="display:flex;"><img alt="Code" width="256" height="437" align="right" src="assets/code/short.png"/></p>
 
 Nothing right now...
 
