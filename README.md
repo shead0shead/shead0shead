@@ -41,8 +41,6 @@ Nothing right now...
 - 📖 [GitBook Test](https://github.com/shead0shead)
 - 📖 [GitBook Test](https://github.com/shead0shead)
 - 📖 [GitBook Test](https://github.com/shead0shead)
-- 📖 [GitBook Test](https://github.com/shead0shead)
-- 📖 [GitBook Test](https://github.com/shead0shead)
 
 <br/>
 
