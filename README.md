@@ -28,18 +28,18 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 Nothing right now...
 
-<p>• 📖 [GitBook Test](https://github.com/shead0shead)               • 📖 [GitBook Test](https://github.com/shead0shead)<br>
-• 📖 [GitBook Test](https://github.com/shead0shead)
-• 📖 [GitBook Test](https://github.com/shead0shead)
-• 📖 [GitBook Test](https://github.com/shead0shead)
-• 📖 [GitBook Test](https://github.com/shead0shead)
-• 📖 [GitBook Test](https://github.com/shead0shead)
-• 📖 [GitBook Test](https://github.com/shead0shead)
-• 📖 [GitBook Test](https://github.com/shead0shead)
-• 📖 [GitBook Test](https://github.com/shead0shead)
-• 📖 [GitBook Test](https://github.com/shead0shead)
-• 📖 [GitBook Test](https://github.com/shead0shead)
-• 📖 [GitBook Test](https://github.com/shead0shead)</p>
+- 📖 [GitBook Test](https://github.com/shead0shead)
+- 📖 [GitBook Test](https://github.com/shead0shead)
+- 📖 [GitBook Test](https://github.com/shead0shead)
+- 📖 [GitBook Test](https://github.com/shead0shead)
+- 📖 [GitBook Test](https://github.com/shead0shead)
+- 📖 [GitBook Test](https://github.com/shead0shead)
+- 📖 [GitBook Test](https://github.com/shead0shead)
+- 📖 [GitBook Test](https://github.com/shead0shead)
+- 📖 [GitBook Test](https://github.com/shead0shead)
+- 📖 [GitBook Test](https://github.com/shead0shead)
+- 📖 [GitBook Test](https://github.com/shead0shead)
+- 📖 [GitBook Test](https://github.com/shead0shead)
 
 <br/>
 
