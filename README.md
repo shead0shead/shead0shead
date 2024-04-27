@@ -33,6 +33,10 @@ Nothing right now...
   <a href="https://github.com/shead0shead/financial_calculator"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark&bg_color=161B22&hide_border=true" alt="financial_calculator"></a>
   <a href="https://github.com/shead0shead/financial_calculator"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark&bg_color=161B22&hide_border=true" alt="financial_calculator"></a>
   <a href="https://github.com/shead0shead/financial_calculator"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark&bg_color=161B22&hide_border=true" alt="financial_calculator"></a>
+  <a href="https://github.com/shead0shead/financial_calculator"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark&bg_color=161B22&hide_border=true" alt="financial_calculator"></a>
+  <a href="https://github.com/shead0shead/financial_calculator"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark&bg_color=161B22&hide_border=true" alt="financial_calculator"></a>
+  <a href="https://github.com/shead0shead/financial_calculator"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark&bg_color=161B22&hide_border=true" alt="financial_calculator"></a>
+  <a href="https://github.com/shead0shead/financial_calculator"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark&bg_color=161B22&hide_border=true" alt="financial_calculator"></a>
 </p>
 
 <br/>
