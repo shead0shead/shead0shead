@@ -46,7 +46,7 @@ Nothing right now...
 <br/>
 <br/>
 
-## 🧑🏻‍💻 Stack
+##
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" title="C++" alt="CPLUSPLUS" width="40" height="40"/>
