@@ -28,7 +28,7 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 Nothing right now...
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator)](https://github.com/shead0shead/financial_calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&card_width=280)](https://github.com/shead0shead/financial_calculator)
 - 📖 [GitBook Test](https://github.com/shead0shead)
 - 📖 [GitBook Test](https://github.com/shead0shead)
 - 📖 [GitBook Test](https://github.com/shead0shead)
