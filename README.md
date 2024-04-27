@@ -5,15 +5,9 @@ Hi there! I'm Egor: A 17 years old student and Begginer Backend Developer. This 
 
 ##
 
-<div style="display:flex;"><img alt="About me" width="256" height="437" align="left" src="assets/aboutme/short_reverse.png"/></div>
+<a style="display:flex;"><img alt="About me" width="256" height="437" align="left" src="assets/aboutme/short_reverse.png"/></a>
 
 ↙️ This is my work, but I backend developer.
-
-<div align="left">
-
-- Hello
-- How are you
-</div>
 
 I am a 17-year-old student and a begginer backend developer living in the Russian city of Volgograd. I started learning programming in 2023. The first language I started learning was C#.
 
