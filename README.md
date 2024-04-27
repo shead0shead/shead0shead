@@ -9,11 +9,12 @@ Hi there! I'm Egor: A 17 years old student and Begginer Backend Developer. This 
 
 ↙️ This is my work, but I backend developer.
 
-<div>
-
-- Hello
-- How are you
-</div>
+   <hr>
+   <ul>
+     <li>Hello</li>
+     <li>How are you?</li>
+   </ul>
+   <hr>
 
 I am a 17-year-old student and a begginer backend developer living in the Russian city of Volgograd. I started learning programming in 2023. The first language I started learning was C#.
 
