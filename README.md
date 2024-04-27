@@ -29,10 +29,10 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 Nothing right now...
 
 <p>
-  <a href="https://github.com/shead0shead/financial_calculator"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark" alt="financial_calculator"></a>
-  <a href="https://github.com/shead0shead/financial_calculator"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark" alt="financial_calculator"></a>
-  <a href="https://github.com/shead0shead/financial_calculator"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark" alt="financial_calculator"></a>
-  <a href="https://github.com/shead0shead/financial_calculator"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark" alt="financial_calculator"></a>
+  <a href="https://github.com/shead0shead/financial_calculator"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark&bg_color=0B0E16" alt="financial_calculator"></a>
+  <a href="https://github.com/shead0shead/financial_calculator"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark&bg_color=0B0E16" alt="financial_calculator"></a>
+  <a href="https://github.com/shead0shead/financial_calculator"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark&bg_color=0B0E16" alt="financial_calculator"></a>
+  <a href="https://github.com/shead0shead/financial_calculator"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark&bg_color=0B0E16" alt="financial_calculator"></a>
 </p>
 
 - 📖 [GitBook Test](https://github.com/shead0shead)
