@@ -56,9 +56,8 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 <br/>
 <br/>
 <br/>
-<br/>
 
-## 🧑‍🤝‍🧑 Socials
+##
 
 <img alt="" width="256" height="149" align="right" src="assets/socials/thin.png"/>
 
