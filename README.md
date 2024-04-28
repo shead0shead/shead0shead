@@ -71,7 +71,6 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" title="FIGMA" alt="FIGMA" width="40" height="40"/>
 </div>
 
-<br/>
 
 ##
 
