@@ -43,7 +43,7 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 <img alt="" width="256" height="153" align="left" src="assets/tech/new_thin.png"/>
 
-<p align="specify">
+<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" title="C++" alt="CPLUSPLUS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" title="C#" alt="CHARP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="40" height="40"/>
@@ -51,7 +51,7 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" title="JAVASCRIPT" alt="JAVASCRIPT" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" title="INTELLIJ IDEA" alt="INTELLIJ IDEA" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" title="FIGMA" alt="FIGMA" width="40" height="40"/>
-</p>
+</div>
 
 <br/>
 <br/>
@@ -65,6 +65,8 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 - ✉️ eg.konovalov@mail.ru
 - ✈️ [Telegram](https://t.me/shead0shead)
 
+<br/>
+<br/>
 
 ## Develop
 
