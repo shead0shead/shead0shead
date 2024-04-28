@@ -73,4 +73,4 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 ## Test
 
-<p> Это я <img alt="" width="128" height="128" src="assets/aboutme/photo.png"/></p>
+<p align="right"> Это я <img alt="" width="128" height="128" src="assets/aboutme/photo.png"/></p>
