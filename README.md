@@ -69,3 +69,8 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 - width="278"
 - &theme=github_dark&bg_color=161B22&hide_border=true
+
+
+## Test
+
+<p> Это я <img alt="" width="128" height="128" src="assets/aboutme/photo.png"/></p>
