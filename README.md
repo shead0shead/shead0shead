@@ -9,13 +9,11 @@ Hi there! I'm Egor: A 17 years old student and Begginer Backend Developer. This 
 
 ↙️ This is my work, but I backend developer.
 
-I am a 17-year-old student and a begginer backend developer living in the Russian city of Volgograd. I started learning programming in 2023. The first language I started learning was C#.
+<p><img alt="" width="128" height="128" align="left" src="assets/aboutme/photo.png"/>I am a 17-year-old student and a begginer backend developer living in the Russian city of Volgograd. I started learning programming in 2023. The first language I started learning was C#.</p>
 
 I would like to create something that will please me and other people, as well as benefit them. I want to work in a team of professionals who are really passionate about their business.
 
 Lately, I've been actively studying Java and trying to keep an eye on my github so that it doesn't break the eyes of other people.
-
-<p><img alt="" width="128" height="128" align="left" src="assets/aboutme/photo.png"/> Это я </p>
 
 <br/>
 <br/>
