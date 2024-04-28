@@ -87,8 +87,6 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 <a href="https://t.me/shead0shead" target="_blank"><img width="75" height="149" src="assets/socials/telegram.png" alt="Telegram Badge"/></a>
 <a href="https://vk.com/shead0shead" target="_blank"><img width="75" height="149" src="assets/socials/vkontakte.png" alt="VKontakte Badge"/></a>
 
-<br/>
-<br/>
 
 ## Develop
 
