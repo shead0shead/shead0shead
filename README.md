@@ -86,6 +86,7 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 <a href="mailto:eg.konovalov@mail.ru" target="_blank"><img width="75" height="149" src="assets/socials/mail_color.png" title="eg.konovalov@mail.ru" alt="Mail Badge"/></a>
 <a href="https://t.me/shead0shead" target="_blank"><img width="75" height="149" src="assets/socials/telegram_color.png" title="t.me/shead0shead" alt="Telegram Badge"/></a>
 <a href="https://vk.com/shead0shead" target="_blank"><img width="75" height="149" src="assets/socials/vkontakte_color.png" title="vk.com/shead0shead" alt="VKontakte Badge"/></a>
+<a href="https://steamcommunity.com/id/sheadru/" target="_blank"><img width="75" height="149" src="assets/socials/steam_color.png" title="steamcommunity.com/id/sheadru/" alt="Steam Badge"/></a>
 
 
 ## Develop
