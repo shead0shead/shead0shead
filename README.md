@@ -15,6 +15,8 @@ I would like to create something that will please me and other people, as well a
 
 Lately, I've been actively studying Java and trying to keep an eye on my github so that it doesn't break the eyes of other people.
 
+<p><img alt="" width="128" height="128" align="left" src="assets/aboutme/photo.png"/> Это я </p>
+
 <br/>
 <br/>
 <br/>
