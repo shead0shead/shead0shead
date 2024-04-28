@@ -60,6 +60,8 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 ## 🧑‍🤝‍🧑 Socials
 
+<img alt="" width="256" height="149" align="right" src="assets/socials/thin.png"/>
+
 - ✉️ eg.konovalov@mail.ru
 - ✈️ [Telegram](https://t.me/shead0shead)
 
