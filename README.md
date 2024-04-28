@@ -87,7 +87,6 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 <a href="https://t.me/shead0shead" target="_blank"><img width="275" height="149" src="telegram.png" alt="Telegram Badge"/></a>
 <a href="mailto:eg.konovalov@mail.ru" target="_blank"><img src="https://img.shields.io/badge/eg.konovalov%40mail.ru-darkgreen?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail Badge"/></a><br/>
 <a href="https://t.me/shead0shead" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a><br/>
-<a href="https://vk.com/shead0shead" target="_blank"><img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VKontakte Badge"/></a>
 
 - ✉️ eg.konovalov@mail.ru
 - ✈️ [Telegram](https://t.me/shead0shead)
