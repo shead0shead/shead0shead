@@ -83,9 +83,9 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 <img alt="" width="256" height="149" align="right" src="assets/socials/thin.png"/>
 
-<a href="mailto:eg.konovalov@mail.ru" target="_blank"><img width="75" height="149" src="assets/socials/mail_border.png" alt="Mail Badge"/></a>
-<a href="https://t.me/shead0shead" target="_blank"><img width="75" height="149" src="assets/socials/telegram_border.png" alt="Telegram Badge"/></a>
-<a href="https://vk.com/shead0shead" target="_blank"><img width="75" height="149" src="assets/socials/vkontakte_border.png" alt="VKontakte Badge"/></a>
+<a href="mailto:eg.konovalov@mail.ru" target="_blank"><img width="75" height="149" src="assets/socials/mail.png" alt="Mail Badge"/></a>
+<a href="https://t.me/shead0shead" target="_blank"><img width="75" height="149" src="assets/socials/telegram.png" alt="Telegram Badge"/></a>
+<a href="https://vk.com/shead0shead" target="_blank"><img width="75" height="149" src="assets/socials/vkontakte.png" alt="VKontakte Badge"/></a>
 
 
 ## Develop
