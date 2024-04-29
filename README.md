@@ -88,6 +88,7 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 <a href="https://vk.com/shead0shead" target="_blank"><img width="75" height="149" src="assets/socials/vkontakte_color.png" title="vk.com/shead0shead" alt="VKontakte Badge"/></a>
 <a href="https://discordapp.com/users/400694720956989451" target="_blank"><img width="75" height="149" src="assets/socials/discord_color.png" title="discordapp.com/users/400694720956989451" alt="Discord Badge"/></a>
 <a href="https://steamcommunity.com/id/sheadru/" target="_blank"><img width="75" height="149" src="assets/socials/steam_color.png" title="steamcommunity.com/id/sheadru" alt="Steam Badge"/></a>
+<a href="https://www.youtube.com/channel/UCXM0D16od0PDjIq0J-MBeNA" target="_blank"><img width="75" height="149" src="assets/socials/youtube_color.png" title="youtube.com/shead0shead" alt="Steam Badge"/></a>
 
 
 ## Develop
