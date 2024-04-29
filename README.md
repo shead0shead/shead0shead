@@ -25,7 +25,7 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 <br/>
 
-###
+<h3> </h3>
 
 <img alt="" width="256" height="437" align="right" src="assets/code/short.png"/>
 
