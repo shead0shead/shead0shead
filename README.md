@@ -18,7 +18,7 @@ So far, I have not worked anywhere as a backend programmer, but I am gradually s
 Lately, I've been actively studying Java and trying to keep an eye on my github so that it doesn't break the eyes of other people.
 
 <br/>
-
+<br/>
 
 <img alt="" width="256" height="437" align="right" src="assets/code/short.png"/>
 
