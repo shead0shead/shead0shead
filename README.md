@@ -83,13 +83,13 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 <img alt="" width="256" height="149" align="right" src="assets/socials/thin.png"/>
 
-<a href="mailto:eg.konovalov@mail.ru" target="_blank"><img width="75" height="149" src="assets/socials/mail_color.png" title="eg.konovalov@mail.ru" alt="Mail Badge"/></a>
-<a href="https://t.me/shead0shead" target="_blank"><img width="75" height="149" src="assets/socials/telegram_color.png" title="t.me/shead0shead" alt="Telegram Badge"/></a>
-<a href="https://vk.com/shead0shead" target="_blank"><img width="75" height="149" src="assets/socials/vkontakte_color.png" title="vk.com/shead0shead" alt="VKontakte Badge"/></a>
-<a href="https://github.com" target="_blank"><img width="75" height="149" src="assets/socials/linkedin_color.png" title="nothing rnw" alt="LinkedIn Badge"/></a>
-<a href="https://discordapp.com/users/400694720956989451" target="_blank"><img width="75" height="149" src="assets/socials/discord_color.png" title="discordapp.com/users/400694720956989451" alt="Discord Badge"/></a>
-<a href="https://steamcommunity.com/id/sheadru" target="_blank"><img width="75" height="149" src="assets/socials/steam_color.png" title="steamcommunity.com/id/sheadru" alt="Steam Badge"/></a>
-<a href="https://www.youtube.com/channel/UCXM0D16od0PDjIq0J-MBeNA" target="_blank"><img width="75" height="149" src="assets/socials/youtube_color.png" title="youtube.com/shead0shead" alt="Youtube Badge"/></a>
+<a href="mailto:eg.konovalov@mail.ru" target="_blank"><img width="75" height="149" src="assets/socials/mail.png" title="eg.konovalov@mail.ru" alt="Mail Badge"/></a>
+<a href="https://t.me/shead0shead" target="_blank"><img width="75" height="149" src="assets/socials/telegram.png" title="t.me/shead0shead" alt="Telegram Badge"/></a>
+<a href="https://vk.com/shead0shead" target="_blank"><img width="75" height="149" src="assets/socials/vkontakte.png" title="vk.com/shead0shead" alt="VKontakte Badge"/></a>
+<a href="https://github.com" target="_blank"><img width="75" height="149" src="assets/socials/linkedin.png" title="nothing rnw" alt="LinkedIn Badge"/></a>
+<a href="https://discordapp.com/users/400694720956989451" target="_blank"><img width="75" height="149" src="assets/socials/discord.png" title="discordapp.com/users/400694720956989451" alt="Discord Badge"/></a>
+<a href="https://steamcommunity.com/id/sheadru" target="_blank"><img width="75" height="149" src="assets/socials/steam.png" title="steamcommunity.com/id/sheadru" alt="Steam Badge"/></a>
+<a href="https://www.youtube.com/channel/UCXM0D16od0PDjIq0J-MBeNA" target="_blank"><img width="75" height="149" src="assets/socials/youtube.png" title="youtube.com/shead0shead" alt="Youtube Badge"/></a>
 
 
 ## Develop
