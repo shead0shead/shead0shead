@@ -3,8 +3,6 @@
 Hi there! I'm Egor: A 17 years old student and Begginer Backend Developer. This is my profile page to share my personal works and projects that I am working on.
 
 
-##
-
 <img alt="" width="256" height="437" align="left" src="assets/aboutme/short_reverse.png"/>
 
 ↙️ This is my work, but I backend developer.
@@ -21,7 +19,6 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 <br/>
 
-##
 
 <img alt="" width="256" height="437" align="right" src="assets/code/short.png"/>
 
@@ -38,8 +35,6 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
   <a href="https://github.com/shead0shead/shead0shead"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
 </p>
 
-
-##
 
 <img alt="" width="256" height="153" align="left" src="assets/tech/new_thin.png"/>
 
@@ -78,8 +73,6 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="40" height="40"/>
 </div>
 
-
-##
 
 <img alt="" width="256" height="149" align="right" src="assets/socials/thin.png"/>
 
