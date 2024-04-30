@@ -94,5 +94,5 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 ## Develop
 
-- width="278"
+- width="280"
 - &theme=github_dark&bg_color=161B22&hide_border=true
