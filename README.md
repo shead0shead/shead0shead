@@ -13,8 +13,6 @@ Hi there! I'm Egor: A 17 years old student and Begginer Backend Developer. This 
 <p><img alt="" width="128" height="128" align="left" src="assets/aboutme/photo.png"/>I am a 17-year-old student and a begginer backend developer, I live in Volgograd, Russia. I started learning programming in 2023. The first programming language I started learning was C#. And it's still one of my favorite programming langs.</p>
 
 <br/>
-<br/>
-<br/>
 
 I would like to create something that will please me and other people, as well as benefit them. I want to work in a team of professionals who are really passionate about their business.
 
@@ -29,16 +27,16 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 <img alt="" width="256" height="437" align="right" src="assets/code/short.png"/>
 
 <p>
-  <a href="https://github.com/shead0shead/financial_calculator"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="financial_calculator"></a>
-  <a href="https://github.com/shead0shead/campus-maven"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=campus-maven&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="campus-maven"></a>
-  <a href="https://github.com/shead0shead/campus-java-retrofit"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=campus-java-retrofit&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="campus-java-retrofit"></a>
-  <a href="https://github.com/shead0shead/shead0shead"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
-  <a href="https://github.com/shead0shead/shead0shead"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
-  <a href="https://github.com/shead0shead/shead0shead"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
-  <a href="https://github.com/shead0shead/shead0shead"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
-  <a href="https://github.com/shead0shead/shead0shead"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
-  <a href="https://github.com/shead0shead/shead0shead"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
-  <a href="https://github.com/shead0shead/shead0shead"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
+  <a href="https://github.com/shead0shead/financial_calculator"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=financial_calculator&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="financial_calculator"></a>
+  <a href="https://github.com/shead0shead/campus-maven"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=campus-maven&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="campus-maven"></a>
+  <a href="https://github.com/shead0shead/campus-java-retrofit"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=campus-java-retrofit&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="campus-java-retrofit"></a>
+  <a href="https://github.com/shead0shead/shead0shead"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
+  <a href="https://github.com/shead0shead/shead0shead"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
+  <a href="https://github.com/shead0shead/shead0shead"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
+  <a href="https://github.com/shead0shead/shead0shead"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
+  <a href="https://github.com/shead0shead/shead0shead"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
+  <a href="https://github.com/shead0shead/shead0shead"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
+  <a href="https://github.com/shead0shead/shead0shead"><img width="274" src="https://github-readme-stats.vercel.app/api/pin/?username=shead0shead&repo=shead0shead&theme=github_dark&border_color=262b32&bg_color=161B22&hide_border=false&border_radius=15" alt="shead0shead"></a>
 </p>
 
 ###
