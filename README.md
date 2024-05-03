@@ -56,6 +56,11 @@ Backend develop:
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" title="DOCKER" alt="DOCKER" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" title="MONGODB" alt="MONGODB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>
+</div>
+
+Frontend develop:
+
+<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" title="JAVASCRIPT" alt="JAVASCRIPT" width="40" height="40"/>
@@ -66,6 +71,12 @@ Backend develop:
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original.svg" title="NODEJS" alt="NODEJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" title="EXPRESS" alt="EXPRESS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" title="FIGMA" alt="FIGMA" width="40" height="40"/>
+</div>
+
+Other:
+
+<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg" title="KOTLIN" alt="KOTLIN" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swift/swift-original.svg" title="SWIFT" alt="SWIFT" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/objectivec/objectivec-plain.svg" title="OBJECTIVEC" alt="OBJECTIVEC" width="40" height="40"/>
@@ -77,13 +88,9 @@ Backend develop:
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original.svg" title="VISUALSTUDIO" alt="VISUALSTUDIO" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="POSTMAN" alt="POSTMAN" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" title="FIGMA" alt="FIGMA" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="40" height="40"/>
 </div>
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
