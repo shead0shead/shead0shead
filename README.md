@@ -41,7 +41,7 @@ Lately, I've been actively studying Java and trying to keep an eye on my github 
 
 ###
 
-<img alt="" width="256" height="153" align="left" src="assets/tech/new_short.png"/>
+<img alt="" width="256" height="437" align="left" src="assets/tech/new_short.png"/>
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" title="C++" alt="CPLUSPLUS" width="40" height="40"/>
