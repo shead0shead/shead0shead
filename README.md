@@ -78,12 +78,19 @@ Frontend develop:
 
 <br/>
 
-Other:
+Mobile:
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg" title="KOTLIN" alt="KOTLIN" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swift/swift-original.svg" title="SWIFT" alt="SWIFT" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/objectivec/objectivec-plain.svg" title="OBJECTIVEC" alt="OBJECTIVEC" width="40" height="40"/>
+</div>
+
+<br/>
+
+Other:
+
+<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original.svg" title="UNITY" alt="UNITY" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" title="INTELLIJ IDEA" alt="INTELLIJ IDEA" width="40" height="40"/>
@@ -95,7 +102,6 @@ Other:
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="40" height="40"/>
 </div>
 
-<br/>
 <br/>
 <br/>
 <br/>
