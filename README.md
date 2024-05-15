@@ -78,7 +78,7 @@ Frontend develop:
 
 <br/>
 
-Mobile:
+Mobile develop:
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg" title="KOTLIN" alt="KOTLIN" width="40" height="40"/>
@@ -88,7 +88,7 @@ Mobile:
 
 <br/>
 
-Other:
+Other (Programs etc.):
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original.svg" title="UNITY" alt="UNITY" width="40" height="40"/>
